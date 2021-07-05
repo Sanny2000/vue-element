@@ -1,0 +1,17 @@
+{
+  "pagelist":[
+      {
+          "registerNumber":"注册受试者人数",
+          "registerCount":1
+      },
+      {
+          "groupNumber":"入组受试者人数",
+          "groupCount":0
+      },
+      {
+          "expNumber":"预期受试者人数",
+          "expCount":1232
+      }
+  ],
+  "user_info":{"username":"liuailing"}
+}
